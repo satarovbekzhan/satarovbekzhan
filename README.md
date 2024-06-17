@@ -1,6 +1,8 @@
 # Hi, I am Bekzhan!
 
-### Employment History
+Frontend Developer experienced in leading projects from start to launch, emphasizing collaboration and attention to detail. Skilled in crafting optimal user experiences through effective collaboration with UX/UI teams. Proficient in various programming languages and frameworks, with a solid educational background in computer science. Fluent in Kyrgyz, Russian, and English, with intermediate proficiency in German and Turkish.
+
+## Employment History
 
 **Lead Frontend Developer, Wedevx Inc.**\
 10/2022 – Present, Chicago, IL, USA (Remote)
@@ -21,7 +23,7 @@
 - Updated the Android application to support newer versions of the Android OS.
 - Implemented Bluetooth LE feature allowing users to view device firmware versions.
 
-### Education
+## Education
 
 **B.Sc. in Computer Science, Kyrgyz-German Institute of Applied Informatics**\
 09/2017 – 06/2023, Bishkek, Kyrgyzstan
